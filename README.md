@@ -4,11 +4,6 @@
 
 **A lightweight Convolutional Neural Network built from scratch in PyTorch that teaches itself to recognise 10 everyday object classes from tiny 32×32 colour images.**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
 ![Test Accuracy](https://img.shields.io/badge/Test%20Accuracy-76.36%25-brightgreen?style=flat-square)
 ![Train Accuracy](https://img.shields.io/badge/Train%20Accuracy-77.89%25-blue?style=flat-square)
 ![Parameters](https://img.shields.io/badge/Parameters-~282K-purple?style=flat-square)
